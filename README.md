@@ -3,7 +3,8 @@
   🇺🇸
   <a title="Chinese" href="/README_CN.md">🇨🇳</a>
 </div> -->
-![qingyou-logo](https://wildbox.cn/images/icons/qingyoulogo.png)
+<img src="./source/img/favicon.png" width="64"/>
+
 # hexo-theme-butterfly-qingyou
 
 ![master version](https://img.shields.io/github/package-json/v/maxtunelee/hexo-theme-butterfly-qingyou/master?color=%231ab1ad&label=master)
